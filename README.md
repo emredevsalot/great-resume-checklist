@@ -1,6 +1,6 @@
 TODOS:
 
-- [] Deploy to GitHub.
+- [x] Deploy to GitHub.
 - [] Bold parts in all pages.
 - [] Customize for each job page - Create prompt filler prompts and fill the page.
 - [] Fix navbar logo
